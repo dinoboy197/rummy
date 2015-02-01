@@ -1,5 +1,2 @@
-require "rummy/version"
-
-module Rummy
-  # Your code goes here...
-end
+require_relative "rummy/game"
+require_relative "rummy/version"
